@@ -47,6 +47,7 @@ on training and Testing set.
 
 
 The selected tree-based model(Bagging Regressor) achieved an impressive R2 score of 0.9716 on training and 0.895 on testing data, outperforming other contenders. Similarly, the chosen non-tree-based model(SVR) demonstrated superior predictive capabilities with R2 score of 0.897 on training and 0.905 on testing data.
+-- Here RMSE of Non tree-based models is seems to less because Features were scaled ind transformed and then RMSE is calculated.
 
 ## Instructions for Replication
 
