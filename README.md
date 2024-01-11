@@ -15,10 +15,9 @@ The dataset used for this project is provided by Kaggle and can be found [here](
 - **Linear Regression**
 - **Lasso Regression**
 - **Ridge Regression**
-- - **Elastic Net**
+- **Elastic Net**
 - **Support Vector Regressor (SVR)**
-- **Gradient Boosting (XGBoost)**
-- **Neural Network (MLP)**
+
 
 ### Tree-Based Models
 
